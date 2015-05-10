@@ -1,0 +1,30 @@
+{
+  "name": "tiny-queue",
+  "version": "1.0.0",
+  "description": "tiny event queue for nodejs asynchronous callback",
+  "main": "queue.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jetiny/tiny-queue"
+  },
+  "keywords": [
+    "tiny",
+    "async",
+    "callback",
+    "queue"
+  ],
+  "author": "jetiny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetiny/tiny-queue/issues"
+  },
+  "homepage": "https://github.com/jetiny/tiny-queue",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "expect.js": "^0.3.1",
+    "mocha": "^2.2.4"
+  }
+}
