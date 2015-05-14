@@ -26,6 +26,8 @@ function Queue(context, done, queues) {
             _done = defer;
             defer = false;
         }
+        if (_done)
+            done = _done;
         if (defer)
             setTimeout(Q);
         else
