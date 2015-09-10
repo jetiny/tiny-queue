@@ -1,6 +1,6 @@
 {
-  "name": "tiny-queue",
-  "version": "1.0.0",
+  "name": "queue-chain",
+  "version": "1.0.1",
   "description": "tiny event queue for nodejs asynchronous callback",
   "main": "queue.js",
   "scripts": {
