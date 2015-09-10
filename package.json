@@ -1,5 +1,5 @@
 {
-  "name": "tiny-queue",
+  "name": "queue-chain",
   "version": "1.0.0",
   "description": "tiny event queue for nodejs asynchronous callback",
   "main": "queue.js",
